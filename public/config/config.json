@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2C2226F917Fdaa15DF9096A3B11c18283e8f44e5",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2c2226f917fdaa15df9096a3b11c18283e8f44e5",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "OKAY NFTs",
+  "SYMBOL": "OKAY",
+  "MAX_SUPPLY": 160,
+  "WEI_COST": 88000000000000000,
+  "DISPLAY_COST": 0.088,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/okay-nfts-1",
+  "SHOW_BACKGROUND": true
+}
